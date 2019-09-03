@@ -1,0 +1,14 @@
+﻿<form method='post'>
+<table>
+<tr><td> Nom</td><td><imput type='text' name='Nom'/></td></tr>
+<tr><td> Prenom</td><td><imput type='text' name='Prenom'/></td></tr>
+<tr><td> login</td><td><imput type='text' name='Prenom'/></td></tr>
+<tr><td> mot_depasse</td><td><imput type='text' name='mot_depasse'/></td></tr>
+<tr><td> type</td><td><imput type='text' name='type'/></td></tr>
+<tr><td> matricule_fiscale</td><td><imput type='text' name='matricule_fiscale'/></td></tr>
+<tr><td> telephone</td><td><imput type='text' name='telephone'/></td></tr>
+<tr><td>inscription</td><td><imput type='submit' name='inscription'/></td></tr>
+</table>
+</form>
+
+
